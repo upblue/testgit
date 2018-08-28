@@ -25,6 +25,6 @@ def contactus(request):
 
 def helloworld(request):
     """
-    helloworld
+    fanhjhelloworld
     """
     return render_mako_context(request, '/home_application/helloworld.html')
